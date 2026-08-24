@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex: 1;
+    font-family: 'Roboto' sans-serif;
+}
+
+.header,
+.hero,
+.footer {
+    background-color: #1f2937;
+}
+
+#header-logo {
+    font-size: 24px;
+    color:#f9faf8;
+}
+
+.header-link {
+    list-style: none;
+    color: #f9faf8;
+}
+
+#hero-main-text {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+#hero-secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+#hero-btn {
+    background-color: #3882f6;
+}
+
+.information p {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    color: #1f2937;
+}
+
+#quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
