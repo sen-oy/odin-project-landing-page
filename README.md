@@ -1,2 +1,9 @@
 # odin-project-landing-page
 An html layout exercise involving a simple landing page.
+
+Here are the image credits: 
+- Photo by <a href="https://unsplash.com/@luciasuescun?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alondra Lucia</a> on <a href="https://unsplash.com/photos/a-pair-of-sunglasses-on-a-white-background-tUyg4nIQHPk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@thisisramiro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ramiro Mendes</a> on <a href="https://unsplash.com/photos/apple-magic-keyboard-and-mouse-CjS3QsRuxnE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@sebcomantravel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sebastian Coman Travel</a> on <a href="https://unsplash.com/photos/white-framed-brown-lens-sunglasses-dtOTQYmTEs0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@giorgiotrovato?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Giorgio Trovato</a> on <a href="https://unsplash.com/photos/shallow-focus-photo-of-black-ray-ban-wayfarer-sunglasses-K62u25Jk6vo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/gold-colored-framed-hippie-sunglasses-on-white-surface-1-nx1QR5dTE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
